@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Kushal Khotari/AndroidStudioProjects/mycar/app/src/main/res/layout/activity_bmwcol.xml" value="0.18931159420289856" />
         <entry key="..\:/Users/Kushal Khotari/AndroidStudioProjects/mycar/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kushal Khotari/AndroidStudioProjects/mycar/app/src/main/res/layout/activity_hundaicol.xml" value="0.18931159420289856" />
         <entry key="..\:/Users/Kushal Khotari/AndroidStudioProjects/mycar/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Kushal Khotari/AndroidStudioProjects/mycar/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Kushal Khotari/AndroidStudioProjects/mycar/app/src/main/res/layout/activity_mercedescol.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Kushal Khotari/AndroidStudioProjects/mycar/app/src/main/res/layout/activity_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kushal Khotari/AndroidStudioProjects/mycar/app/src/main/res/layout/activity_volvocol.xml" value="0.18931159420289856" />
       </map>
     </option>
   </component>

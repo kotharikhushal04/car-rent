@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mycar">
         <activity
+            android:name=".volvocol"
+            android:exported="false" />
+        <activity
+            android:name=".hundaicol"
+            android:exported="false" />
+        <activity
+            android:name=".bmwcol"
+            android:exported="false" />
+        <activity
+            android:name=".mercedescol"
+            android:exported="false" />
+        <activity
+            android:name=".myaccount"
+            android:exported="false" />
+        <activity
             android:name=".LoginActivity"
             android:exported="false" />
         <activity
