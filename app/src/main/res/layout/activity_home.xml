@@ -20,11 +20,11 @@
 
     <ImageView
         android:id="@+id/imagebmw"
-        android:layout_width="172dp"
-        android:layout_height="171dp"
-        android:layout_marginEnd="16dp"
-        android:layout_marginRight="16dp"
-        android:layout_marginBottom="48dp"
+        android:layout_width="166dp"
+        android:layout_height="163dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="52dp"
         android:onClick="bmwclick"
         app:layout_constraintBottom_toTopOf="@+id/imagevol"
         app:layout_constraintEnd_toEndOf="parent"
@@ -84,12 +84,13 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="72dp"
         android:fontFamily="sans-serif-black"
         android:text="Hundai"
         android:textSize="16sp"
-        app:layout_constraintBottom_toBottomOf="@+id/imagehun"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/textView5"
-        app:layout_constraintHorizontal_bias="0.287"
+        app:layout_constraintHorizontal_bias="0.333"
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
@@ -121,12 +122,11 @@
         android:id="@+id/textView7"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="156dp"
+        android:layout_marginTop="120dp"
         android:fontFamily="sans-serif-black"
         android:text="WELCOME ! CHOOSE YOUR BRAND"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
